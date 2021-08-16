@@ -1,0 +1,9 @@
+{
+  "name": "manuellacandido/projeto-comercio3a",
+  "description": "",
+  "autoload": {
+           "psr-4": {
+              "Src\\": "src/"
+              }
+  }
+}
